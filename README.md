@@ -30,11 +30,11 @@ I am a junior developer interested in data science and data analytics and contin
 
 <h3>Where to find me</h3>
 <p>
+  📧 <strong>Email:</strong> <a href="mailto:hamad.datascience@gmail.com">hamad.datascience@gmail.com</a><br/>
+</p>
+<p>
   <a href="https://github.com/RaulHamad" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
-  <a href="mailto:hamad.datascience@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/raul-hamad-182473221/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
