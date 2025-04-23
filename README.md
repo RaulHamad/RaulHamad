@@ -33,7 +33,7 @@ I am a junior developer interested in data science and data analytics and contin
   <a href="https://github.com/RaulHamad" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-  <a href="hamad.datascience@gmail.com">
+  <a href="mailto:hamad.datascience@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/raul-hamad-182473221/" target="_blank">
