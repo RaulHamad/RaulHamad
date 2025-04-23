@@ -22,7 +22,7 @@ I am a junior developer interested in data science and data analytics and contin
 <h3>Featured projects</h3>
 
 - **Loan Approval Prediction:** Using Python and Shiny that simulates a loan evaluation system for financial institutions.[Repository](https://github.com/RaulHamad/DataScience-Loan_Approval_Prediction)
-- **Loan Approval Prediction:** Fully interactive data analysis web application with no traditional web development skills required..[Repository](https://github.com/RaulHamad/Dashboard-de-Propinas)
+- **Loan Approval Prediction:** Interactive Dashboard using Shiny and Python.[Repository](https://github.com/RaulHamad/Dashboard-de-Propinas)
 - **Task Manager:** Web application developed with Python and Tkinter. [Repository](https://github.com/RaulHamad/first-project)
 - **car rental:** Web application developed with Python and Flask.[Repository](https://github.com/RaulHamad/end_of_course_project)
 
