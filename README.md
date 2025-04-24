@@ -40,6 +40,6 @@ I am a junior developer interested in data science and data analytics and contin
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
    <a href="https://connect.posit.cloud/raulhamad" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=about-dot-me&logoColor=white" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-orange.svg?&style=for-the-badge&logo=about-dot-me&logoColor=white" />
   </a>
   </p>
