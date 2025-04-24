@@ -1,7 +1,7 @@
 <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Raul, Civil Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>Paraíba, Brazil</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Badajoz, Spain</b>. </p>
-I am a junior developer interested in data science and data analytics and continuous learning
+I am a junior developer interested in data science and data analytics and continuous learning.
 
 <h3>Technologies I use</h3>
 <p>
@@ -22,9 +22,9 @@ I am a junior developer interested in data science and data analytics and contin
 <h3>Featured projects</h3>
 
 - **Loan Approval Prediction:** Using Python and Shiny that simulates a loan evaluation system for financial institutions.[Repository](https://github.com/RaulHamad/DataScience-Loan_Approval_Prediction)
-- **Loan Approval Prediction:** Interactive Dashboard using Shiny and Python.[Repository](https://github.com/RaulHamad/Dashboard-de-Propinas)
+- **Tips Dashboard:** Interactive Dashboard using Shiny and Python.[Repository](https://github.com/RaulHamad/Dashboard-de-Propinas)
 - **Task Manager:** Web application developed with Python and Tkinter. [Repository](https://github.com/RaulHamad/first-project)
-- **car rental:** Web application developed with Python and Flask.[Repository](https://github.com/RaulHamad/end_of_course_project)
+- **Car Rental:** Web application developed with Python and Flask.[Repository](https://github.com/RaulHamad/end_of_course_project)
 
 
 
