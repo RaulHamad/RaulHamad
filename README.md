@@ -1,7 +1,7 @@
 <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Raul, Civil Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>Paraíba, Brazil</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Badajoz, Spain</b>. </p>
-I am a junior developer interested in data science and data analytics and continuous learning.
+I am a Systems Analysis and Development student and a Junior Data Analyst , certified as a Google Data Analytics Professional with over 300 hours of training in Python and Machine Learning. My focus is continuous learning, applying data analysis to optimize processes (as in my practical experience with Python/Tkinter ) and administrative automation. I have practical experience in Python , SQL , and BI tools like Power BI, and I am ready to add value to your team.
 
 <h3>Technologies I use</h3>
 <p>
