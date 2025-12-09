@@ -21,6 +21,7 @@ I am a junior developer interested in data science and data analytics and contin
 </p>
 <h3>Featured projects</h3>
 
+- **Case Study:** Comparison of Bicycle Usage Behavior Between Subscribers and Casual Customers (Google Data Analytics).[Repository](https://github.com/RaulHamad/Cyclistic_Case_Study_Coursera)
 - **Loan Approval Prediction:** Using Python and Shiny that simulates a loan evaluation system for financial institutions.[Repository](https://github.com/RaulHamad/DataScience-Loan_Approval_Prediction)
 - **Tips Dashboard:** Interactive Dashboard using Shiny and Python.[Repository](https://github.com/RaulHamad/Dashboard-de-Propinas)
 - **Task Manager:** Web application developed with Python and Tkinter. [Repository](https://github.com/RaulHamad/first-project)
