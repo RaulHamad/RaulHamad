@@ -21,11 +21,12 @@ I am a Systems Analysis and Development student and a Junior Data Analyst , cert
 </p>
 <h3>Featured projects</h3>
 
-- **Case Study:** Comparison of Bicycle Usage Behavior Between Subscribers and Casual Customers (Google Data Analytics).[Repository](https://github.com/RaulHamad/Cyclistic_Case_Study_Coursera)
-- **Loan Approval Prediction:** Using Python and Shiny that simulates a loan evaluation system for financial institutions.[Repository](https://github.com/RaulHamad/DataScience-Loan_Approval_Prediction)
-- **Tips Dashboard:** Interactive Dashboard using Shiny and Python.[Repository](https://github.com/RaulHamad/Dashboard-de-Propinas)
+- **Case Study:** Comparison of Bicycle Usage Behavior Between Subscribers and Casual Customers (Google Data Analytics). [Repository](https://github.com/RaulHamad/Cyclistic_Case_Study_Coursera)
+- **Big Data Capstone:** Data-driven strategic HR decision-making, using Power BI and a fictional wellness survey. [Repository](https://github.com/RaulHamad/Big_Data_capstone/tree/main)
+- **Loan Approval Prediction:** Using Python and Shiny that simulates a loan evaluation system for financial institutions. [Repository](https://github.com/RaulHamad/DataScience-Loan_Approval_Prediction)
+- **Tips Dashboard:** Interactive Dashboard using Shiny and Python. [Repository](https://github.com/RaulHamad/Dashboard-de-Propinas)
 - **Task Manager:** Web application developed with Python and Tkinter. [Repository](https://github.com/RaulHamad/first-project)
-- **Car Rental:** Web application developed with Python and Flask.[Repository](https://github.com/RaulHamad/end_of_course_project)
+- **Car Rental:** Web application developed with Python and Flask. [Repository](https://github.com/RaulHamad/end_of_course_project)
 
 
 
