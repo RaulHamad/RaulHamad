@@ -2,9 +2,9 @@
 
 <p>Welcome to my page! </br> I'm Raul, Civil Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>Paraíba, Brazil</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Badajoz, Spain</b>. </p>
 
-**Systems Analysis & Development Student | Junior Data Analyst**
+**Data Engineer | Systems Analysis & Development Student | Civil Engineer (CREA)**
 
-I am a Systems Analysis and Development student and a Junior Data Analyst, certified as a **Google Data Analytics Professional** with over 300 hours of specialized training in **Python** and **Machine Learning**. My focus is on continuous learning and applying data analysis to optimize processes and administrative automation.
+I bridge the gap between engineering reasoning and modern data solutions. Graduating in Systems Analysis & Development and certified as a **Google Data Analytics Professional**, I have 300+ hours of specialized training in Data Engineering, Python, SQL, and ETL in Spain. My focus is on building efficient data pipelines, process automation, and transforming raw data into actionable insights.
 
 ---
 ### 🎓 Education & Certifications
@@ -35,13 +35,13 @@ I am a Systems Analysis and Development student and a Junior Data Analyst, certi
 </p>
 <h3>Featured projects</h3>
 
-- **Kaggle Healthcare Dataset:** Data Science project for predicting laboratory test results. [Repository](https://github.com/RaulHamad/dataset_healthcare_Kaggle)
-- **Case Study:** Comparison of Bicycle Usage Behavior Between Subscribers and Casual Customers (Google Data Analytics). [Repository](https://github.com/RaulHamad/Cyclistic_Case_Study_Coursera)
-- **Big Data Capstone:** Data-driven strategic HR decision-making, using Power BI and a fictional wellness survey. [Repository](https://github.com/RaulHamad/Big_Data_capstone/tree/main)
-- **Loan Approval Prediction:** Using Python and Shiny that simulates a loan evaluation system for financial institutions. [Repository](https://github.com/RaulHamad/DataScience-Loan_Approval_Prediction)
-- **Tips Dashboard:** Interactive Dashboard using Shiny and Python. [Repository](https://github.com/RaulHamad/Dashboard-de-Propinas)
-- **Task Manager:** Web application developed with Python and Tkinter. [Repository](https://github.com/RaulHamad/first-project)
-- **Car Rental:** Web application developed with Python and Flask. [Repository](https://github.com/RaulHamad/end_of_course_project)
+- **Kaggle Healthcare Dataset:** End-to-end data pipeline built in Python to process and clean complex medical lab test datasets, preparing structured data for downstream modeling. [Repository](https://github.com/RaulHamad/dataset_healthcare_Kaggle)
+- **Bike-Share Usage Behavior Analysis:** Google Data Analytics Capstone focused on data ingestion, transformation, and comparative analysis of user types to generate strategic insights. [Repository](https://github.com/RaulHamad/Cyclistic_Case_Study_Coursera)
+- **Big Data Capstone:** End-to-end BI project featuring data modeling, structured survey data ingestion, and interactive KPI tracking using Power BI. [Repository](https://github.com/RaulHamad/Big_Data_capstone/tree/main)
+- **Loan Approval Prediction:** Interactive web application developed with Python and Shiny that processes user inputs, evaluates risk rules, and delivers automated financial decisions. [Repository](https://github.com/RaulHamad/DataScience-Loan_Approval_Prediction)
+- **Tips Dashboard:** Web-based dashboard built with Python and Shiny for dynamic data exploration and real-time visual analysis. [Repository](https://github.com/RaulHamad/Dashboard-de-Propinas)
+- **Task Manager:** Desktop application developed with Python and Tkinter, featuring local database management and automated task workflows. [Repository](https://github.com/RaulHamad/first-project)
+- **Car Rental:** Full-stack micro web application developed with Python and Flask, implementing backend data handling and CRUD operations. [Repository](https://github.com/RaulHamad/end_of_course_project)
 
 
 
